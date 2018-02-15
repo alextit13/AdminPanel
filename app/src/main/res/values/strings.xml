@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AdministrationPanel</string>
+    <string name="administration_text">Administration</string>
+    <string name="marka">Марка</string>
+    <string name="hint_marka">Марка авто</string>
+    <string name="model">Модель</string>
+    <string name="hint_model">Модель авто</string>
+    <string name="okrug">Город</string>
+    <string name="hint_okrug">Город</string>
+    <string name="rayon">Район</string>
+    <string name="hint_rayon">Район</string>
+    <string name="metro">Метро</string>
+    <string name="hint_metro">Метро</string>
+    <string name="hint_vid_rabot">Вид работ</string>
+    <string name="vid_rabot">Вид работ</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_clear">Очистить</string>
+    <string name="adress">Адрес</string>
+    <string name="hint_adress">Адрес</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="information_text_1">Для функционирования приложения необходимо
+        подключение к сети Интернет. В поля нужно воодить данные, которые будут однотипны.
+    Это означает, что если Вы вводите наименование марки Audi, то всегда нужно вводить именно
+    Audi (не Ауди, не АУДИ, не AUDI, никак по другому, только Audi). Это же касается и других полей.
+    Все доступные модели, марки, виды работ нужно вводить через запятую, без пробелов, как показано
+    на примере ниже. В строке "Адрес" необходимо вводить данные по типу "г.Москва,ул.Московская,37".
+    Допускается в номере дома указывать дробь: "г.Москва,ул.Московская,37/154"</string>
+    <string name="information_text_2">Для сохранения введенных данных на сервере нужно нажать кнопку
+    "Сохранить". Для очистки всех введенных в форму данных (не на сервере), нажать кнопку "Очистить".
+    Номер телефона вводится в формате "+9583256521", то есть через знак "+".</string>
+    <string name="number">Номер телефона</string>
+    <string name="hint_number">Номер</string>
+    <string name="name">Название</string>
+    <string name="hint_name">Название автосервиса</string>
+    <string name="rating">Рейтинг</string>
+    <string name="ed_grafik_raboti">График работы</string>
+    <string name="maps">Указать на карте</string>
+    <string name="site">Сайт</string>
+</resources>
